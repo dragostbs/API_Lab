@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Boscan_Dragos_Lab5.Models;
 
-namespace Pascu_Serban_Lab5.Controllers
+namespace Boscan_Dragos_Lab5.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
