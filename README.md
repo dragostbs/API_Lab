@@ -1,6 +1,6 @@
 # Web API App 🌌
 
-.NET Web API Application testing GET, POST, PUT, DELETE 
+.NET Web API Application, testing GET, POST, PUT, DELETE with Postman 
 
 ## Built and Tested with
 
